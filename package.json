@@ -1,0 +1,14 @@
+{
+  "name": "find-longest-and-shortest-words-in-string",
+  "version": "1.0.0",
+  "description": "Find longest and shortest words in a string",
+  "main": "",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "author": "Richard Foster",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^7.1.0"
+  }
+}
